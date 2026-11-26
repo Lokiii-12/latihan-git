@@ -1,0 +1,13 @@
+# Jadwal Kelas
+- Frontend
+- Backend
+- Sistem Keamanan Data
+- Aplikasi Mobile
+- Pengujian Perangkat Lunak
+- Manajemen Proyek
+- IoT
+- Pemograman Multimedia
+- Etika dan Komunikasi
+- Kewirausahaan
+- Statistika
+- Human Computer Interaksi
